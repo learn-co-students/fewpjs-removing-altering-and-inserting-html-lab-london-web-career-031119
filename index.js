@@ -9,3 +9,5 @@ newHeader.id = 'victory'
 newHeader.innerHTML = 'Manon is the champion!'
 // optional for css:
 newHeader.className = 'victory'
+// adding newHeader to the DOM:
+document.body.appendChild(newHeader)
